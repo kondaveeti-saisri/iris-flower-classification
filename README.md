@@ -28,7 +28,7 @@ Here's how the species differ by petal size:
 
 > You can see that *setosa* is very different from the other two — it has much smaller petals!
 
-## 🏁 How to Run This Project
+##  How to Run This Project
 
 ### 1. Install Required Libraries
 ```bash
