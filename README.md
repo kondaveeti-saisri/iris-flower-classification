@@ -24,7 +24,7 @@ I built an AI model that predicts the species of an iris flower based on its sep
 ##  Visualization
 Here's how the species differ by petal size:
 
-![Iris Plot](screenshot.png)
+![Iris Plot](plot.png.png)
 
 > You can see that *setosa* is very different from the other two — it has much smaller petals!
 
